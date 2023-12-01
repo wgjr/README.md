@@ -8,10 +8,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=composer&logoColor=white)
-![PHP](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=php&logoColor=white)
-![GOLang](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vue](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=vue&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23CB3837.svg?style=for-the-badge&logo=php&logoColor=white)
+![GOLang](https://img.shields.io/badge/go-%23CB3837.svg?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23CB3837.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
